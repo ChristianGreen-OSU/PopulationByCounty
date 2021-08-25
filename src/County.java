@@ -2,8 +2,7 @@ package osu.cse2123;
 
 /**
  * An interface for county population data
- * 
- * @author Jeremy Morris
+ *
  * @version 11/12/2020
  *
  */
